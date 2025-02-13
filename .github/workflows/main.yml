@@ -30,3 +30,4 @@ jobs:
       with:
         name: spdx.json
         path: spdx.json
+        compression-level: 0
